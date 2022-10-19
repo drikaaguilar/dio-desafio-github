@@ -1,1 +1,7 @@
 Teste para criação do meu repositório.
+
+Comandos essenciais para subir o projeto
+- git add . (adicionar)
+- git commit -m "Comentário" (commitar)
+- git status (visualizar status)
+- git push origin main
